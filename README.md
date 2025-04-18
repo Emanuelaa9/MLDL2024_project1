@@ -62,3 +62,4 @@ end
 $\texttt{stdLatency} \gets \texttt{std(latency)*1000}$\
 $\texttt{meanFPS} \gets \texttt{mean(FPS)}$\
 $\texttt{stdFPS} \gets \texttt{std(FPS)}$
+
